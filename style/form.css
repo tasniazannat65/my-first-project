@@ -1,0 +1,57 @@
+
+.form-container{
+    width: 250px;
+    height: 350px;
+    border: 3px solid #546373 ;
+    padding: 20px 40px;
+    margin: 40px 60px;
+    border-radius: 16px;
+    background-image: url(../image/image3.jpg);
+    
+
+}
+
+
+.form-container h3{
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+    color: #FF1493;
+}
+.registration{
+    text-align: center;
+    font-size: 15px;
+}
+#Name, #Email, #Password{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px 60px;
+    border-radius: 16px;
+    border: none;
+    background-color: #FF1493;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn:hover{
+    background-image: none;
+    background-color: #4169E1;
+}
+.label{
+    font-size: 18px;
+    font-weight: bold;
+}
+.form-container p{
+    text-align: center;
+    font-size: 16px;
+}
+.form-container span{
+    color:  #FF1493;
+    text-decoration: underline;
+}
+
+

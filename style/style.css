@@ -71,7 +71,7 @@ ul{
 }
 
  .banner-content h1{
-    font-size: 20px;
+    font-size: 25px;
     font-weight:bold;
     color: #546373; 
     
@@ -85,7 +85,7 @@ ul{
  }
  .banner-content p{
     
-    font-size: 10px;
+    font-size: 12px;
      font-weight: bold;
      color: gray;
     
@@ -98,10 +98,10 @@ ul{
     width: 100%;
  }
  .banner-image img{
-    width: 220px;
+    width: 250px;
     
  }
  .banner-content .btn{
     font-size: 10px;
-    padding: 10px 15px;
+    padding: 15px 20px;
  }
