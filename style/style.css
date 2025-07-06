@@ -50,7 +50,7 @@ ul{
     font-weight: bold;
     color: #2F4F4F;
 }
-#banner{
+#banner {
     
     margin: 60px auto 100px auto;
     padding: 40px 60px;
@@ -60,14 +60,12 @@ ul{
   border-radius: 16px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
- 
- 
-  
+  align-items: center;   
     
-
-    
-    
+}
+#service{
+   margin: 0px auto 100px auto;
+   width: 87.5%;
 }
 
  .banner-content h1{
@@ -94,7 +92,7 @@ ul{
  .banner-content{
     text-align: left;
  }
- img{
+ *img{
     width: 100%;
  }
  .banner-image img{
@@ -105,3 +103,42 @@ ul{
     font-size: 10px;
     padding: 15px 20px;
  }
+ .heading-content{
+   text-align: center;
+ }
+.heading-content h3{
+   font-size: 20px;
+   margin-bottom: 15px;
+}
+.heading-content p{
+   font-size: 10px;
+   
+   
+}
+.service-card{
+   width: 200px;
+   height: 180px;
+   border-radius: 16px;
+   
+   margin: 40px;
+   padding: 20px;
+   text-align: center;
+   background-image: linear-gradient( #696969, #2F4F4F);
+   box-shadow: 2px 4px 8px 2px #000000;
+   
+}
+.service-card h4{
+   font-size: 20px;
+   margin-bottom: 10px;
+   font-weight: 900;
+   color: #132020;
+   
+}
+.service-card p{
+   font-size: 10px;
+   
+}
+.service-card-container{
+   display: flex;
+   justify-content: space-between;
+}
